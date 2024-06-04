@@ -1,11 +1,10 @@
 const x = 10;
 let iteration = 0;
-let randomNumber;
+let randomNumber = -1;
 
-while (randomNumber === x) {
-randomNumber = Match.round(Math.random() * 10);
-console.log(randomNumber);
+while(randomNumber !== x){
+randomNumber = Math.round(Math.random() * 10);
 iteration++;
-}
+};
 
-console.log(iteration);
+console.log('za ' + iteration + ' razem wylosowałem ' + randomNumber);
