@@ -1,5 +1,4 @@
 const randomNumber = Math.round(Math.random() * 20);
-let allNums;
 
 if (randomNumber >= 5) {
 	for (i = 5; i < randomNumber; i++) {
