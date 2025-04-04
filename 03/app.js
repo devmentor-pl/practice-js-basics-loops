@@ -3,8 +3,7 @@ let iteration = 0;
 let randomNumber = -1;
 
 while (x !== randomNumber) {
-  const number = Math.round(Math.random() * x);
-  randomNumber = number;
+  randomNumber = Math.round(Math.random() * x);
   iteration++;
 }
 
