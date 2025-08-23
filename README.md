@@ -10,7 +10,7 @@ Celem tego zestawu zadań jest sprawdzenie, czy rozumiesz działanie pętli `for
 Zanim przystąpisz do wykonywania zadań, zapoznaj się dokładnie ze strukturą i zasadami działania obu pętli. W szczególności zwróć uwagę na warunki zakończenia ich wykonywania.
 
 &nbsp;
-
+git@github.com:marazmlab/practice-js-basics-loops.git
 ## Zadania
 
 > :bangbang: *Raz w tygodniu wykonuję **bezpłatny [Code Review](https://en.wikipedia.org/wiki/Code_review)** wybranej losowo osobie, która nie współpracuje ze mną w ramach [mentoringu](https://devmentor.pl/mentoring-javascript/). Zrób [Pull Request](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request-from-a-fork) i weź udział w losowaniu, wysyłając link do PR w odpowiednim kanale na [Discordzie](https://devmentor.pl/discord). Życzę Ci efektywnej nauki programowania!
